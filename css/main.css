@@ -1,0 +1,23 @@
+body {
+ background-image: url("../images/fondo.png");
+ background-color: #cccccc;
+}
+
+
+.boton{
+display: scroll;
+position:fixed;
+bottom:0px;
+right:20px;"
+}
+
+.boton img{
+  white: 302px;
+  height: 100px;
+}
+
+.modal-header
+    {
+        padding:9px 15px;
+        background-color: #72ccf4;
+    }
