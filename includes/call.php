@@ -1,9 +1,9 @@
 <?php
 
-    $nombre			= $_POST['nombre'];
-    $pais			  = $_POST['pais'];
-    $telefono		= $_POST['telefono'];
-    $email			= $_POST['email'];
+    $nombre     = $_POST['nombre'];
+    $pais       = $_POST['pais'];
+    $telefono   = $_POST['telefono'];
+    $email      = $_POST['email'];
 
     if ($pais == 'CH'){
 
